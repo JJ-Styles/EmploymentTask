@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebaspxTask", "WebaspxTask\WebaspxTask.csproj", "{67E1A6B2-8BBE-4DD9-8DF3-B3B047B2A04C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67E1A6B2-8BBE-4DD9-8DF3-B3B047B2A04C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67E1A6B2-8BBE-4DD9-8DF3-B3B047B2A04C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67E1A6B2-8BBE-4DD9-8DF3-B3B047B2A04C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67E1A6B2-8BBE-4DD9-8DF3-B3B047B2A04C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAE1F6A5-CB47-4288-A48E-403939F58928}
+	EndGlobalSection
+EndGlobal
